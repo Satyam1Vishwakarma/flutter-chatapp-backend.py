@@ -1,0 +1,10 @@
+uvicorn[standard]
+aiohttp[speedups]
+python-multipart
+imagekitio
+dnspython
+httptools
+aiofiles
+fastapi
+Pillow
+motor

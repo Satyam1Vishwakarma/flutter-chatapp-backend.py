@@ -8,9 +8,8 @@ class LoginSignUP(BaseModel):
 
 class LoginSignUPResponse(BaseModel):
 	status: int = 1
-	username: Optional[str]
-	userid: Optional[str]
-	userpfp: Optional[str]
+	username: Optional[str] = None
+	userid: Optional[str] = None
 
 class GetAvatarResponse(BaseModel):
 	status: int = 1

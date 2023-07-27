@@ -1,6 +1,6 @@
 from anyio import run_async_from_thread
 import motor.motor_asyncio as motor
-from image2 import *
+from image import *
 import secrets
 import time
 

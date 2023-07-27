@@ -4,13 +4,10 @@ from image2 import *
 import secrets
 import time
 
-accimg="mongodb+srv://flutter:image@cluster0.he2nm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
-accinfo="mongodb+srv://flutter:text@cluster0.mf6vz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+accimg="mongodb+srv://image:image@image.amecp0w.mongodb.net/?retryWrites=true&w=majority"
+accinfo="mongodb+srv://account:account@account.rqtv0qs.mongodb.net/?retryWrites=true&w=majority"
 
 defaultimg="https://ik.imagekit.io/yriztiyh8jv/avatar/guest"
-
-
-
 
 class acountimage:
 	def __init__(self):

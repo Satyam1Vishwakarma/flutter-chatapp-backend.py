@@ -7,8 +7,8 @@ import aiofiles
 
 
 imagekit =ImageKit(
-    private_key='private_8TT0t79RFW4t4wZfd21tDDfFQ7Q=',
-    public_key='public_b/yyTY7UM7tXWiOgoY5mhnFt6n4=',
+    private_key='pr',
+    public_key='public=',
     url_endpoint='https://ik.imagekit.io/yriztiyh8jv'
 )
 

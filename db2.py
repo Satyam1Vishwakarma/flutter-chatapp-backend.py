@@ -4,8 +4,8 @@ from image import *
 import secrets
 import time
 
-accimg="mongodb+srv://image:image@image.amecp0w.mongodb.net/?retryWrites=true&w=majority"
-accinfo="mongodb+srv://account:account@account.rqtv0qs.mongodb.net/?retryWrites=true&w=majority"
+accimg="mongodb+srv:/"
+accinfo="mongod"
 
 defaultimg="https://ik.imagekit.io/yriztiyh8jv/avatar/guest"
 

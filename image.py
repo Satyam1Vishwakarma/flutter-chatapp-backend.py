@@ -4,8 +4,8 @@ import asyncio
 import aiofiles
 from PIL import Image
 
-cid='52HbaJc3ppjfTYX16Lt5LGahSPh'
-secrets='EwLdLyxupnvhYX/eMBgwENgqIBbASEGc0OsM4BkW5SDR31IC83FOfDBg/SAuIwWBSPu2sE/s676QR4kd/Xm7mQ=='
+cid='52H'
+secrets='EwLd'
 baseurl='https://khalbank.sirv.com'
 files=f'{baseurl}/v2/files'
 uploadurl=f'{files}/upload?filename=/avatar'
